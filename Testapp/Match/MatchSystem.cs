@@ -28,10 +28,10 @@ public class MatchSystem
 
         return roll switch
         {
-            1 => new Enemy("Slime", 15, 4, 1),
-            2 => new Enemy("Goblin", 25, 6, 2),
-            3 => new Enemy("Orc", 40, 8, 4),
-            4 => new Enemy("Slime", 15, 4, 1)
+            1 => new Enemy("Gideon", 15, 4, 1),
+            2 => new Enemy("Bert", 25, 6, 2),
+            3 => new Enemy("Nick", 40, 8, 4),
+            4 => new Enemy("Jan", 15, 4, 1)
         };
     } 
 

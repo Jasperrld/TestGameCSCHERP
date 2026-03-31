@@ -1,0 +1,14 @@
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/bin/Debug/net10.0/Testapp
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/bin/Debug/net10.0/Testapp.deps.json
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/bin/Debug/net10.0/Testapp.runtimeconfig.json
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/bin/Debug/net10.0/Testapp.dll
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/bin/Debug/net10.0/Testapp.pdb
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/Testapp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/Testapp.AssemblyInfoInputs.cache
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/Testapp.AssemblyInfo.cs
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/Testapp.csproj.CoreCompileInputs.cache
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/Testapp.dll
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/refint/Testapp.dll
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/Testapp.pdb
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/Testapp.genruntimeconfig.cache
+/Users/jasperroeland/Documents/CSharp/Testapp/Testapp/obj/Debug/net10.0/ref/Testapp.dll
